@@ -1,2 +1,0 @@
-proxies:
-  - {name: 🎧 Salvan, server: salvan.icu, port: 19980, type: http, tls: false, skip-cert-verify: false}
