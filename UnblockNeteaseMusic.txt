@@ -1,2 +1,2 @@
 proxies:
-  - {name: 8, server: salvan.icu, port: 19980, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🎧 Salvan, server: salvan.icu, port: 19980, type: http, tls: false, skip-cert-verify: false}
