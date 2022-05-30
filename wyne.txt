@@ -1,0 +1,3 @@
+shadowsocks=MUSIC.DESPERADOJ.COM:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=·𝐒𝐚𝐥𝐯𝐚𝐧·
+
+shadowsocks=MUSIC.DESPERADOJ.COM:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=Music 4
