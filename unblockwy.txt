@@ -1,4 +1,2 @@
 http=MUSIC.GRIOUGES.CN:39000, over-tls=false, fast-open=false, udp-relay=false, tag=𝐒𝐚𝐥𝐯𝐚𝐧·𝐇𝐬𝐮
 http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=·𝐒𝐚𝐥𝐯𝐚𝐧·
-shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=𝐒𝐚𝐥𝐯𝐚𝐧
-shadowsocks=127.0.0.1:8080, method=aes-128-gcm, password=This_proxy_is_for_free, fast-open=false, udp-relay=false, tag=·𝐒𝐚𝐥𝐯𝐚𝐧·𝐇𝐬𝐮·
