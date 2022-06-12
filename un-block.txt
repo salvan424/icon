@@ -1,3 +1,2 @@
 http=music.lolico.me:39000, over-tls=false, fast-open=true, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=𝐒𝐚𝐥𝐯𝐚𝐧 1
 http=MUSIC.GRIOUGES.CN:39000, over-tls=false, fast-open=true, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=𝐒𝐚𝐥𝐯𝐚𝐧 2
-http=h3816tw.droplet.today:20443, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=𝐒𝐚𝐥𝐯𝐚𝐧 3
