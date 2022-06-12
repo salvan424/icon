@@ -1,8 +1,0 @@
-http=MUSIC.GRIOUGES.CN:39000, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=𝐒𝐚𝐥𝐯𝐚𝐧 1
-http=music.lolico.me:39000, over-tls=false, fast-open=false, udp-relay=false, tag=𝐒𝐚𝐥𝐯𝐚𝐧
-shadowsocks=MUSIC.DESPERADOJ.COM:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=𝐒𝐚𝐥𝐯𝐚𝐧 3
-shadowsocks=MUSIC.DESPERADOJ.COM:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=𝐒𝐚𝐥𝐯𝐚𝐧 4
-http=101.132.79.113:23333, fast-open=false, udp-relay=false, tag=𝐒𝐚𝐥𝐯𝐚𝐧 5
-http=1.116.214.16:19980, over-tls=false, fast-open=false, udp-relay=false, tag=𝐒𝐚𝐥𝐯𝐚𝐧 6
-http=SALVAN.ICU:19980, over-tls=false, fast-open=false, udp-relay=false, tag=𝐒𝐚𝐥𝐯𝐚𝐧 7
-http=106.52.127.72:19951, over-tls=false, fast-open=false, udp-relay=false, tag=𝐒𝐚𝐥𝐯𝐚𝐧 8
