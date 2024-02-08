@@ -1,0 +1,1 @@
+https://sub1.yunfast.org/api/v1/client/subscribe?token=b8bc6ef5870900ba35980aefa8584d22
